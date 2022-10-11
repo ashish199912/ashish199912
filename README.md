@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashish Kumar Jha 👋
 
-## I'm a Application Developer and Security Researcher..!!
+## I'm a Security Researcher & Software Engineer..!!
 
 
 - 🌱 I’m currently doing practice with problem solving 😉
