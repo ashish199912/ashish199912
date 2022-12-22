@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently doing practice with problem solving 😉
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything, I am happy to help 😄
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people 🙌
