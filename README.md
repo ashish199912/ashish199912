@@ -3,7 +3,7 @@
 
 
 ## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akjha12/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ScriptExploit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/channel/UCuTnOdBLKb0u7LGolSwj2VQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akjha12/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/channel/UCuTnOdBLKb0u7LGolSwj2VQ)
 
 ## 🏆 Certificates:
 [![Cybersecurity Virtual Experience Program](https://example.com/path-to-your-certificate-badge)](https://drive.google.com/file/d/1uuz9pCFZPXUvUSsz54c5TmaluUOt71UG/view)<br>
