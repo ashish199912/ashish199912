@@ -1,5 +1,5 @@
 # 💫 About Me - Security Enthusiast 🔒
-🌱 I'm really into keeping things safe on the internet 🛡️<br>🎯 My goal for 2023: Help make open-source software more secure 🌐🚀<br>💬 Need help with anything related to online safety? Feel free to ask – I'm here to assist! 😄<br>🧗 I enjoy exploring the ins and outs of security, finding new ways to keep stuff safe online 🌍<br>⚡ Fun fact: I love connecting with folks who share my passion for online security 🤝🔐
+🌱 I'm really into keeping things safe on the internet 🛡️<br>🎯 My goal for 2025: Help make open-source software more secure 🌐🚀<br>💬 Need help with anything related to online safety? Feel free to ask – I'm here to assist! 😄<br>🧗 I enjoy exploring the ins and outs of security, finding new ways to keep stuff safe online 🌍<br>⚡ Fun fact: I love connecting with folks who share my passion for online security 🤝🔐
 
 
 ## 🌐 Links:
