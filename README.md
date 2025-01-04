@@ -8,7 +8,8 @@
 ## 🏆 Certificates:
 [Cybersecurity Virtual Experience Program](https://drive.google.com/file/d/1uuz9pCFZPXUvUSsz54c5TmaluUOt71UG/view)<br>
 [Cyber Security Management Virtual Experience Program](https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/)</br>
-[Certified AppSec Pentester (CAPen)]([https://drive.google.com/file/d/1uuz9pCFZPXUvUSsz54c5TmaluUOt71UG/view](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTnB7A3N8yqT4Kej+EZoX53o1hW1JNKza7uaOBu6vfIC++tvf9uox8V4kHBcZdzW3MHwW4vjqaNl6bWetGtp5Kk=))
+[Certified AppSec Pentester (CAPen)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTnB7A3N8yqT4Kej+EZoX53o1hW1JNKza7uaOBu6vfIC++tvf9uox8V4kHBcZdzW3MHwW4vjqaNl6bWetGtp5Kk=)
+
 
 
 ## TryHackMe Badge:
