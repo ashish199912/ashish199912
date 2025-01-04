@@ -6,10 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akjha12/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/channel/UCuTnOdBLKb0u7LGolSwj2VQ)
 
 ## 🏆 Certificates:
+[Certified AppSec Pentester (CAPen)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTnB7A3N8yqT4Kej+EZoX53o1hW1JNKza7uaOBu6vfIC++tvf9uox8V4kHBcZdzW3MHwW4vjqaNl6bWetGtp5Kk=)</br>
 [Cybersecurity Virtual Experience Program](https://drive.google.com/file/d/1uuz9pCFZPXUvUSsz54c5TmaluUOt71UG/view)<br>
-[Cyber Security Management Virtual Experience Program](https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/)</br>
-[Certified AppSec Pentester (CAPen)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTnB7A3N8yqT4Kej+EZoX53o1hW1JNKza7uaOBu6vfIC++tvf9uox8V4kHBcZdzW3MHwW4vjqaNl6bWetGtp5Kk=)
-
+[Cyber Security Management Virtual Experience Program](https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/)
 
 
 ## TryHackMe Badge:
