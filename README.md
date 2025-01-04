@@ -12,7 +12,7 @@
 
 
 ## TryHackMe Badge:
-[![TryHackMe Badge](https://tryhackme.com/badge/488834)](https://tryhackme.com/p/ScriptExploit)
+[TryHackMe Badge](https://tryhackme.com/p/ScriptExploit)
 
 
 # 💻 Tech Stack:
