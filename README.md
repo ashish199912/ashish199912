@@ -8,10 +8,8 @@
 ## 🏆 Certificates:
 [![Cybersecurity Virtual Experience Program](https://example.com/path-to-your-certificate-badge)](https://drive.google.com/file/d/1uuz9pCFZPXUvUSsz54c5TmaluUOt71UG/view)<br>
 [![CCNA Routing and Switching](https://example.com/path-to-your-certificate-badge)](https://www.eduonix.com/certificate/f4187a1b3e)<br>
-[![Cyber Security Management Virtual Experience Program](https://example.com/path-to-your-certificate-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/)
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/">
-  <img src="https://secops.group/wp-content/uploads/2024/03/logo-pentesting-services-pentesting-exams.png" alt="Cyber Security Management Virtual Experience Program" width="150" />
-</a>
+[[Cyber Security Management Virtual Experience Program](https://example.com/path-to-your-certificate-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7021890835780698113/)
+
 
 ## TryHackMe Badge:
 [![TryHackMe Badge](https://tryhackme.com/badge/488834)](https://tryhackme.com/p/ScriptExploit)
